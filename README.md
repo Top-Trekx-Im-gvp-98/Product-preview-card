@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Product preview card code snippet URL here](https://your-solution-url.com)
-- Live Site URL: [Product preview card Website URL here](https://your-live-site-url.com)
+- Solution URL: [Product preview card code snippet URL here](https://github.com/Top-Trekx-Im-gvp-98/Product-preview-card)
+- Live Site URL: [Product preview card Website URL here](https://product-preview-card-im-gvp-98.netlify.app/)
 
 ## My process
 
